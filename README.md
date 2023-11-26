@@ -16,5 +16,7 @@ Hi, my name is Humberto Rivero 👋<br><br>👨‍💻 I am a committed person t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=humbertodrc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+<img width="600" src="https://wakatime.com/share/@danieldamian099/efb915e5-debd-47c8-9b93-bfcf51f6b7dc.svg" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=humbertodrc&icon=2&color=6)](https://visitcount.itsvg.in)
