@@ -3,7 +3,7 @@ Hi, my name is Humberto Rivero 👋<br><br>👨‍💻 I am a committed person t
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mundo_javascript/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-rivero-rivero-castro/)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-rivero-rivero-castro/)
 [![wakatime](https://wakatime.com/badge/user/691f43ed-3a10-41af-b5e8-294647115f16.svg)](https://wakatime.com/@691f43ed-3a10-41af-b5e8-294647115f16)
 
 # 💻 Tech Stack:
